@@ -1,0 +1,6 @@
+{
+  "name": "Retail SKU Concentration & Assortment Diagnostic Console",
+  "description": "An interactive SaaS diagnostic sandpit and operational decision support console based on the 80/20 Pareto principle. This tool allows category managers to evaluate SKU level performance, price band clustering, and identify clearance stocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
