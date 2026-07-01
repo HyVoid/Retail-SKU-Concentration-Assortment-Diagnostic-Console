@@ -1,5 +1,3 @@
-# English | [简体中文](README.zh-CN.md)
-
 # Optimize Retail SKU Assortment Decisions with Dynamic Sales Contribution Analysis
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
