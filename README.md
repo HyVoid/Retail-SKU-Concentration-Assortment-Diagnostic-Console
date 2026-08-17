@@ -8,7 +8,7 @@
 
 > ## **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser** → *HTML Live Demo (coming soon)*
+> 🌐 **Open in Browser** → [*HTML Live Demo*](https://hyvoid.github.io/Retail-SKU-Concentration-Assortment-Diagnostic-Console/)
 >
 > 📥 **Download Excel** → *GitHub Release / Gumroad Download (coming soon)*
 
