@@ -14,22 +14,6 @@
 
 ---
 
-## Screenshots
-
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-*Interactive Pareto analysis dashboard showing SKU concentration, cumulative sales contribution curves, and long-tail inventory exposure.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
-
-*Excel-based diagnostic sandbox enabling category managers to simulate SKU elimination scenarios and analyze assortment efficiency.*
-
----
-
 ## What It Helps You Track
 
 * Number of active SKUs required to achieve 60%, 80%, and 90% of category sales.
