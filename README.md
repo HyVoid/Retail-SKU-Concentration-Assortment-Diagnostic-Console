@@ -6,7 +6,9 @@
 
 **Identify the smallest set of SKUs driving 60%/80%/90% of sales, expose hidden long-tail inventory costs, and support SKU rationalization decisions — using a free browser tool or Excel workbook, with no installation or signup required.**
 
-> ## **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser** → [*HTML Live Demo*](https://hyvoid.github.io/Retail-SKU-Concentration-Assortment-Diagnostic-Console/)
 >
