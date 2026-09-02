@@ -12,7 +12,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 >
 > 🌐 **Open in Browser** → [*HTML Live Demo*](https://hyvoid.github.io/Retail-SKU-Concentration-Assortment-Diagnostic-Console/)
 >
-> 📥 **Download Excel** → *GitHub Release / Gumroad Download (coming soon)*
+> 📥 **Download Excel** → *GitHub Release / [Website](https://www.theseusworkshop.com/) Download (coming soon)*
 
 ---
 
@@ -398,7 +398,7 @@ Expected impact:
 * **Cross-Border VAT Compliance Dashboard** — standardize monthly VAT calculation workflows.
 * **Marketing Attribution Audit Framework** — identify misleading ROI measurement assumptions.
 
-More tools: *GitHub profile / Gumroad collection*
+More tools: *GitHub profile / [Website](https://www.theseusworkshop.com/)*
 
 ---
 
