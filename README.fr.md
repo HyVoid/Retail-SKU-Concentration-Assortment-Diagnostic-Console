@@ -29,7 +29,7 @@ Essayez gratuitement la version navigateur. Si vous avez besoin de la version Ex
 
 ---
 
-# Pourquoi j'ai conçu ceci
+## Pourquoi j'ai conçu ceci
 
 La plupart des organisations de détail savent déjà que les ventes suivent généralement une distribution 80/20. Le problème est que très peu d'équipes peuvent calculer avec précision ce que cela signifie opérationnellement au niveau du magasin et de la catégorie.
 
@@ -112,7 +112,7 @@ Cet outil d'analyse de concentration des SKU est un exemple de cette approche : 
 <details>
 <summary>Pour les réviseurs techniques, les praticiens Excel et les collaborateurs</summary>
 
-## ### Architecture du classeur
+### Architecture du classeur
 
 ```text
 Raw Sales Data
@@ -153,9 +153,9 @@ Dashboard + Decision Lists
 
 ---
 
-## ### Trois pièges qui surprennent même les gestionnaires de catégorie expérimentés
+### Trois pièges qui surprennent même les gestionnaires de catégorie expérimentés
 
-### Piège 1 : Compter tous les SKU au lieu des SKU actifs
+#### Piège 1 : Compter tous les SKU au lieu des SKU actifs
 
 **Décision prise :**
 Une catégorie de 120 SKU est considérée comme sur-assortie.
@@ -190,7 +190,7 @@ Sales > 0 OR Inventory > 0
 
 ---
 
-### Piège 2 : Mesurer la performance de catégorie sans trier la contribution
+#### Piège 2 : Mesurer la performance de catégorie sans trier la contribution
 
 **Décision prise :**
 Tous les SKU contribuent également à la valeur de l'assortiment.
@@ -228,7 +228,7 @@ Trier par ordre décroissant avant le calcul cumulé.
 
 ---
 
-### Piège 3 : Retirer les produits de longue traîne sans analyse des stocks
+#### Piège 3 : Retirer les produits de longue traîne sans analyse des stocks
 
 **Décision prise :**
 Tous les produits à faible vente devraient être retirés.
@@ -264,7 +264,7 @@ Combiner l'analyse de contribution avec l'exposition aux stocks.
 
 ---
 
-## ### Scénario d'exemple
+### Scénario d'exemple
 
 Une chaîne de détail exploite :
 
@@ -312,7 +312,7 @@ Impact attendu :
 
 ---
 
-## ### Référence des formules
+### Référence des formules
 
 <details>
 <summary>Validation de disponibilité</summary>
@@ -375,7 +375,7 @@ Impact attendu :
 
 ---
 
-## ### Règles de validation
+### Règles de validation
 
 | Champ        | Règle                 | Comportement en cas d'erreur           |
 | ------------ | -------------------- | ------------------------ |
