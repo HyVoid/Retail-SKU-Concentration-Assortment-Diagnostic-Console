@@ -28,7 +28,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 
 ---
 
-# Why I Built This
+## Why I Built This
 
 Most retail organizations already know that sales typically follow an 80/20 distribution. The problem is that very few teams can accurately calculate what that means operationally at the store and category level.
 
@@ -111,7 +111,7 @@ This SKU concentration analysis tool is one example of that approach: transformi
 <details>
 <summary>For technical reviewers, Excel practitioners, and collaborators</summary>
 
-## ### Workbook Architecture
+### Workbook Architecture
 
 ```text
 Raw Sales Data
@@ -152,9 +152,9 @@ Dashboard + Decision Lists
 
 ---
 
-## ### Three Traps That Catch Even Experienced Category Managers
+### Three Traps That Catch Even Experienced Category Managers
 
-### Trap 1: Counting All SKUs Instead of Active SKUs
+#### Trap 1: Counting All SKUs Instead of Active SKUs
 
 **Decision made:**
 A category with 120 SKUs is considered over-assorted.
@@ -189,7 +189,7 @@ Sales > 0 OR Inventory > 0
 
 ---
 
-### Trap 2: Measuring Category Performance Without Sorting Contribution
+#### Trap 2: Measuring Category Performance Without Sorting Contribution
 
 **Decision made:**
 All SKUs contribute equally to assortment value.
@@ -227,7 +227,7 @@ Sort descending before cumulative calculation.
 
 ---
 
-### Trap 3: Removing Long-Tail Products Without Inventory Analysis
+#### Trap 3: Removing Long-Tail Products Without Inventory Analysis
 
 **Decision made:**
 All low-selling products should be removed.
@@ -263,7 +263,7 @@ Combine contribution analysis with stock exposure.
 
 ---
 
-## ### Example Scenario
+### Example Scenario
 
 A retail chain operates:
 
@@ -311,7 +311,7 @@ Expected impact:
 
 ---
 
-## ### Formula Reference
+### Formula Reference
 
 <details>
 <summary>Availability Validation</summary>
@@ -374,7 +374,7 @@ Expected impact:
 
 ---
 
-## ### Validation Rules
+### Validation Rules
 
 | Field        | Rule                 | Error Behavior           |
 | ------------ | -------------------- | ------------------------ |
