@@ -1,3 +1,4 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 # Optimize Retail SKU Assortment Decisions with Dynamic Sales Contribution Analysis
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
