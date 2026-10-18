@@ -29,7 +29,7 @@ Pruebe la versión de navegador gratis. Si necesita la versión de Excel, puede 
 
 ---
 
-# Por qué construí esto
+## Por qué construí esto
 
 La mayoría de las organizaciones minoristas ya saben que las ventas suelen seguir una distribución 80/20. El problema es que muy pocos equipos pueden calcular con precisión qué significa eso operativamente a nivel de tienda y categoría.
 
@@ -112,7 +112,7 @@ Esta herramienta de análisis de concentración de SKU es un ejemplo de ese enfo
 <details>
 <summary>Para revisores técnicos, practicantes de Excel y colaboradores</summary>
 
-## ### Arquitectura del libro de trabajo
+### Arquitectura del libro de trabajo
 
 ```text
 Raw Sales Data
@@ -153,9 +153,9 @@ Dashboard + Decision Lists
 
 ---
 
-## ### Tres trampas que atrapan incluso a gerentes de categoría experimentados
+### Tres trampas que atrapan incluso a gerentes de categoría experimentados
 
-### Trampa 1: Contar todos los SKU en lugar de los SKU activos
+#### Trampa 1: Contar todos los SKU en lugar de los SKU activos
 
 **Decisión tomada:**
 Una categoría con 120 SKU se considera sobre-surtida.
@@ -190,7 +190,7 @@ Sales > 0 OR Inventory > 0
 
 ---
 
-### Trampa 2: Medir el rendimiento de la categoría sin ordenar la contribución
+#### Trampa 2: Medir el rendimiento de la categoría sin ordenar la contribución
 
 **Decisión tomada:**
 Todos los SKU contribuyen por igual al valor del surtido.
@@ -228,7 +228,7 @@ Ordenar de forma descendente antes del cálculo acumulado.
 
 ---
 
-### Trampa 3: Eliminar productos de cola larga sin análisis de inventario
+#### Trampa 3: Eliminar productos de cola larga sin análisis de inventario
 
 **Decisión tomada:**
 Todos los productos de baja venta deben eliminarse.
@@ -264,7 +264,7 @@ Combinar el análisis de contribución con la exposición al inventario.
 
 ---
 
-## ### Escenario de ejemplo
+### Escenario de ejemplo
 
 Una cadena minorista opera:
 
@@ -312,7 +312,7 @@ Impacto esperado:
 
 ---
 
-## ### Referencia de fórmulas
+### Referencia de fórmulas
 
 <details>
 <summary>Validación de disponibilidad</summary>
@@ -375,7 +375,7 @@ Impacto esperado:
 
 ---
 
-## ### Reglas de validación
+### Reglas de validación
 
 | Campo        | Regla                 | Comportamiento de error           |
 | ------------ | -------------------- | ------------------------ |
