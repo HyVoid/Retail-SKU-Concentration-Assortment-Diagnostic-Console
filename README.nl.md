@@ -29,7 +29,7 @@ Probeer de browserversie gratis. Heb je de Excel-versie nodig, dan kun je die ko
 
 ---
 
-# Waarom ik dit heb gebouwd
+## Waarom ik dit heb gebouwd
 
 De meeste retailorganisaties weten al dat verkoop doorgaans een 80/20-verdeling volgt. Het probleem is dat zeer weinig teams nauwkeurig kunnen berekenen wat dat operationeel betekent op winkel- en categorieniveau.
 
@@ -112,7 +112,7 @@ Deze SKU-concentratieanalysetool is één voorbeeld van deze benadering: een ter
 <details>
 <summary>Voor technische reviewers, Excel-beoefenaars en medewerkers</summary>
 
-## ### Werkmappenarchitectuur
+### Werkmappenarchitectuur
 
 ```text
 Raw Sales Data
@@ -153,9 +153,9 @@ Dashboard + Decision Lists
 
 ---
 
-## ### Drie valkuilen die zelfs ervaren categoriebeheerders vangen
+### Drie valkuilen die zelfs ervaren categoriebeheerders vangen
 
-### Valkuil 1: Alle SKU's tellen in plaats van actieve SKU's
+#### Valkuil 1: Alle SKU's tellen in plaats van actieve SKU's
 
 **Genomen beslissing:**
 Een categorie met 120 SKU's wordt als overassortiment beschouwd.
@@ -190,7 +190,7 @@ Sales > 0 OR Inventory > 0
 
 ---
 
-### Valkuil 2: Categorieprestaties meten zonder bijdrage te sorteren
+#### Valkuil 2: Categorieprestaties meten zonder bijdrage te sorteren
 
 **Genomen beslissing:**
 Alle SKU's dragen gelijkelijk bij aan de assortimentswaarde.
@@ -228,7 +228,7 @@ Sorteer aflopend vóór cumulatieve berekening.
 
 ---
 
-### Valkuil 3: Lange-staart-producten verwijderen zonder voorraadanalyse
+#### Valkuil 3: Lange-staart-producten verwijderen zonder voorraadanalyse
 
 **Genomen beslissing:**
 Alle slecht verkopende producten moeten worden verwijderd.
@@ -264,7 +264,7 @@ Combineer bijdrageanalyse met voorraadexposure.
 
 ---
 
-## ### Voorbeeldscenario
+### Voorbeeldscenario
 
 Een retailketen exploiteert:
 
@@ -312,7 +312,7 @@ Verwachte impact:
 
 ---
 
-## ### Formulereferentie
+### Formulereferentie
 
 <details>
 <summary>Beschikbaarheidsvalidatie</summary>
@@ -375,7 +375,7 @@ Verwachte impact:
 
 ---
 
-## ### Validatieregels
+### Validatieregels
 
 | Veld        | Regel                 | Foutgedrag           |
 | ------------ | -------------------- | ------------------------ |
