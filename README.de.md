@@ -29,7 +29,7 @@ Testen Sie die Browser-Version kostenlos. Wenn Sie die Excel-Version benötigen,
 
 ---
 
-# Warum ich dies gebaut habe
+## Warum ich dies gebaut habe
 
 Die meisten Einzelhandelsorganisationen wissen bereits, dass Umsätze typischerweise einer 80/20-Verteilung folgen. Das Problem ist, dass nur sehr wenige Teams genau berechnen können, was das operativ auf Filial- und Kategorieebene bedeutet.
 
@@ -112,7 +112,7 @@ Dieses SKU-Konzentrationsanalyse-Tool ist ein Beispiel für diesen Ansatz: die U
 <details>
 <summary>Für technische Prüfer, Excel-Praktiker und Mitarbeiter</summary>
 
-## ### Arbeitsmappen-Architektur
+### Arbeitsmappen-Architektur
 
 ```text
 Raw Sales Data
@@ -153,9 +153,9 @@ Dashboard + Decision Lists
 
 ---
 
-## ### Drei Fallen, die selbst erfahrene Kategoriemanager fangen
+### Drei Fallen, die selbst erfahrene Kategoriemanager fangen
 
-### Falle 1: Alle SKUs zählen statt aktive SKUs
+#### Falle 1: Alle SKUs zählen statt aktive SKUs
 
 **Getroffene Entscheidung:**
 Eine Kategorie mit 120 SKUs gilt als überassortiert.
@@ -190,7 +190,7 @@ Sales > 0 OR Inventory > 0
 
 ---
 
-### Falle 2: Kategorieleistung ohne Sortierung des Beitrags messen
+#### Falle 2: Kategorieleistung ohne Sortierung des Beitrags messen
 
 **Getroffene Entscheidung:**
 Alle SKUs tragen gleichermaßen zum Sortimentswert bei.
@@ -228,7 +228,7 @@ Vor kumulativer Berechnung absteigend sortieren.
 
 ---
 
-### Falle 3: Long-Tail-Produkte ohne Lageranalyse entfernen
+#### Falle 3: Long-Tail-Produkte ohne Lageranalyse entfernen
 
 **Getroffene Entscheidung:**
 Alle gering verkaufenden Produkte sollten entfernt werden.
@@ -264,7 +264,7 @@ Beitragsanalyse mit Lagerexposition kombinieren.
 
 ---
 
-## ### Beispielszenario
+### Beispielszenario
 
 Eine Einzelhandelskette betreibt:
 
@@ -312,7 +312,7 @@ Erwartete Auswirkung:
 
 ---
 
-## ### Formelreferenz
+### Formelreferenz
 
 <details>
 <summary>Verfügbarkeitsvalidierung</summary>
@@ -375,7 +375,7 @@ Erwartete Auswirkung:
 
 ---
 
-## ### Validierungsregeln
+### Validierungsregeln
 
 | Feld        | Regel                 | Fehlerverhalten           |
 | ------------ | -------------------- | ------------------------ |
