@@ -394,10 +394,12 @@ Expected impact:
 
 ## Other Tools in This Series
 
-* **Inventory Planning & Replenishment Sandbox** — optimize reorder timing and inventory investment.
-* **DTC Fashion Inventory Governance Console** — manage long-tail assortment risk across channels.
-* **Cross-Border VAT Compliance Dashboard** — standardize monthly VAT calculation workflows.
-* **Marketing Attribution Audit Framework** — identify misleading ROI measurement assumptions.
+* **[MULTI-NODE-INVENTORY-RECONCILIATION](https://github.com/HyVoid/MULTI-NODE-INVENTORY-RECONCILIATION)** — Why do locations disagree on inventory positions? — Reconcile inventory records across multiple operating nodes to identify discrepancies.
+* **[inventory-planning-reorder-point-excel](https://github.com/HyVoid/inventory-planning-reorder-point-excel)** — What purchasing decision should be made today given demand trends lead times and cash constraints? — Forecast inventory requirements by combining demand signals lead-time risk purchasing recommendations and working capital exposure.
+* **[Retail-and-Maquila-Inventory-Ledger](https://github.com/HyVoid/Retail-and-Maquila-Inventory-Ledger)** — Where is inventory moving across retail and maquila operations? — Track inventory movement processing loss and stock exposure across factories warehouses and stores.
+* **[Universal-3D-Cargo-Loading-Optimization-Simulator](https://github.com/HyVoid/Universal-3D-Cargo-Loading-Optimization-Simulator)** — How should cargo be loaded to reduce wasted space and operational friction? — Simulate 3D cargo loading configurations to maximize container capacity and shipping efficiency.
+* **[Cross-Border-DTC-Inventory-Governance-Console](https://github.com/HyVoid/Cross-Border-DTC-Inventory-Governance-Console)** — What is the real purchasing demand after removing pre-order liabilities and expected returns? — Reconstruct true demand signals by isolating pre-order obligations and return behavior from raw sales data.
+* **[inventory-allocation-fulfillment-excel](https://github.com/HyVoid/inventory-allocation-fulfillment-excel)** — Can each customer order actually be delivered on time given physical stock, reservations, in-transit containers, and open POs across all our locations? — Calculate available-to-promise quantities and net procurement requirements by reconciling physical stock, order reservations, in-transit inventory, and open purchase orders across multiple locations.
 
 More tools: *GitHub profile / [Website](https://www.theseusworkshop.com/)*
 
